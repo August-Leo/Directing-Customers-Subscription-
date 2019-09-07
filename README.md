@@ -6,4 +6,5 @@ The objective of this model is to predict which users will not subscribe to the 
 
 Functional Domain: Fintech Technical Domain: Predictive Modeling
 
-Algorithms/Approach: Feature engineering,Feature scaling,Logistic Regression,GridSearch
+Algorithms/Approach: Feature engineering,Feature scaling,Logistic Regression,GridSearch, RandomForest with Hyperopt 
+Note: Used of Hyperopt hyperparameter optimization with random forest resulting improvement in Test accuracy from 0.76 to 0.78,      Also improved AUC Score from 0.84 to 0.86
