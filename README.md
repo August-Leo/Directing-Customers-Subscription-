@@ -4,7 +4,9 @@ In Today's Market, many companies have a mobile presence. Often, these companies
 
 The objective of this model is to predict which users will not subscribe to the paid membership, so that greater marketing efforts can go into trying to 'convert' them to paid users.
 
-Functional Domain: Fintech Technical Domain: Predictive Modeling
+Functional Domain: Fintech 
+
+Technical Domain: Predictive Modeling
 
 Algorithms/Approach: Feature engineering,Feature scaling,Logistic Regression,GridSearch, RandomForest with Hyperopt 
 Note: Used of Hyperopt hyperparameter optimization with random forest resulting improvement in Test accuracy from 0.76 to 0.78,      Also improved AUC Score from 0.84 to 0.86
